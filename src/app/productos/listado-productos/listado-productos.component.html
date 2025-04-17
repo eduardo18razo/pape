@@ -1,0 +1,17 @@
+<p>listado-productos works!</p>
+
+<div class="row ">
+@for (product of productoEstado.state().productos; track product) {
+  <div class="col-lg-4 col-sm-6 mb-3 mb-sm-0 mt-2" >
+  <div class="card" style="height: 100%;">
+    <!-- <img src="{{ product.imagen }}" class="card-img-top" alt="{{ product.nombre }}"> -->
+    <img src="https://img.freepik.com/vector-premium/icono-diseno-color-tiempo-prueba-movil_362714-11841.jpg"  width="170px" class="mx-auto d-block" alt="...">
+    <div class="card-body">
+      <h5 class="card-title">{{ product.title }}</h5>
+      <p class="card-text">{{ product.description }}</p>
+      <!-- <button (click)="agregarAlCarrito(product)" class="btn btn-primary">Agregar al carrito</button> -->
+    </div>
+  </div>
+</div>
+}
+</div>

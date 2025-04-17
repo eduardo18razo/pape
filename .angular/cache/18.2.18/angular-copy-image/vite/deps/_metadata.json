@@ -1,0 +1,58 @@
+{
+  "hash": "8c76bd30",
+  "configHash": "d63e9ce0",
+  "lockfileHash": "7203e855",
+  "browserHash": "d71f3420",
+  "optimized": {
+    "@angular/common/http": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "c2637b22",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "926e33d5",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "94ba8279",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "cf840413",
+      "needsInterop": false
+    },
+    "ngxtension/signal-slice": {
+      "src": "../../../../../../node_modules/ngxtension/fesm2022/ngxtension-signal-slice.mjs",
+      "file": "ngxtension_signal-slice.js",
+      "fileHash": "a2a14da5",
+      "needsInterop": false
+    },
+    "rxjs": {
+      "src": "../../../../../../node_modules/rxjs/dist/esm5/index.js",
+      "file": "rxjs.js",
+      "fileHash": "8a9b3257",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-RLLVCWDY": {
+      "file": "chunk-RLLVCWDY.js"
+    },
+    "chunk-6VDVLVCG": {
+      "file": "chunk-6VDVLVCG.js"
+    },
+    "chunk-BTUNDUPZ": {
+      "file": "chunk-BTUNDUPZ.js"
+    },
+    "chunk-S35MAB2V": {
+      "file": "chunk-S35MAB2V.js"
+    }
+  }
+}
